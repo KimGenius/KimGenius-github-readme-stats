@@ -1,1 +1,1 @@
-# KimGenius-github-readme-stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimGenius&count_private=true&show_icons=true&theme=tokyonight)
